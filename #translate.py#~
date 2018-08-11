@@ -1,0 +1,11 @@
+from simpleTranslations import *
+
+def mainInput():
+    num = int(raw_input("Enter a number : ")
+    try:
+        if num in digits.keys():
+            print "In words, %d is %s." % (num, digits[num])
+        elif num in divisibleByTen.keys():
+            print "In words, %d is %s." % (num, divisibleByTen[num])
+    except Exception as e:
+        print "Error in mainInput(): ", e

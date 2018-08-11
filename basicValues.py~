@@ -1,0 +1,3 @@
+Lakh = 10 ** 5
+Crore = 100 * Lakh
+Million = 10 * Lakh

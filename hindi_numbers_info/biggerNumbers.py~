@@ -1,0 +1,9 @@
+Lakh = 100 * 1000
+Crore = 100 * Lakh
+
+biggerNumbers = {
+    Bai : "bai(III)",
+    Qian : "qian(I)",
+    Wan : "wan(IV)",
+    Yi4 : "yi(IV)"   
+}

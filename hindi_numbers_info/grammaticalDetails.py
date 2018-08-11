@@ -1,0 +1,1 @@
+minusSignWord = "rNaatmak"
